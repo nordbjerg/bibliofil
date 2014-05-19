@@ -1,4 +1,4 @@
-## Bibliofil [![Build Status](https://travis-ci.org/nordbjerg/bibliofil.svg)](https://travis-ci.org/nordbjerg/bibliofil)
+## Bibliofil [![Build Status](https://travis-ci.org/nordbjerg/bibliofil.svg)](https://travis-ci.org/nordbjerg/bibliofil) [![Code Climate](https://codeclimate.com/github/nordbjerg/bibliofil.png)](https://codeclimate.com/github/nordbjerg/bibliofil)
 
 > Bibliophilia or bibliophilism is the love of books. Accordingly a bibliophile is an individual who loves books, for their content, or who otherwise loves reading. A bibliophile may be a book collector.
 
