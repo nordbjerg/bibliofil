@@ -1,5 +1,7 @@
 ## Bibliofil [![Build Status](https://travis-ci.org/nordbjerg/bibliofil.svg)](https://travis-ci.org/nordbjerg/bibliofil)
 
+> Bibliophilia or bibliophilism is the love of books. Accordingly a bibliophile is an individual who loves books, for their content, or who otherwise loves reading. A bibliophile may be a book collector.
+
 Bibliofil is open-source e-book management software built on top of Laravel 4.1.
 
 Bibliofil analyzes and sorts through your ``.epub``, ``.pdf`` and ``.mobi`` files.
